@@ -23,3 +23,9 @@
 .body {
     background-color: rgb(252, 252, 252);
 }
+
+#lavendarBottom {
+    position:absolute;
+    width: 100%;
+    bottom: 0%;
+}
