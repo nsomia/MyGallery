@@ -13,6 +13,7 @@
 
     .header .fixed {
         position: fixed;
+        background-color: rgb(232, 207, 255);
     }
 
     .header .quote {
@@ -21,10 +22,4 @@
 
 .body {
     background-color: rgb(252, 252, 252);
-}
-
-#lavendarBottom {
-    position:absolute;
-    width: 100%;
-    bottom: 0%;
 }
