@@ -1,8 +1,7 @@
 
 .header {
     text-align:center;
-    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
-    background-color: rgb(255, 207, 207);
+    background-color: rgb(232, 207, 255);
     width: 100%;
     right: 0;
     left: 0;
@@ -17,7 +16,7 @@
     }
 
     .header .quote {
-        color:rgb(219, 219, 219);
+        color:rgb(0, 0, 0);
     }
 
 .body {
