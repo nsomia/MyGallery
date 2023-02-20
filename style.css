@@ -12,6 +12,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 300px;
 }
 
 .header .fixed {
@@ -22,6 +23,7 @@
     right: 0;
     left: 0;
     top: 0;
+    height: 100px;
 }
 
 .header .quote {
