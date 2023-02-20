@@ -12,7 +12,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 300px;
+    height: 250px;
 }
 
 .header .fixed {
@@ -27,6 +27,7 @@
 }
 
 .header .quote {
+    margin-top: 110px;
     color:rgb(0, 0, 0);
 }
 
@@ -46,6 +47,6 @@
 }
 
 .homeImg {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
 }
