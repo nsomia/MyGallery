@@ -1,7 +1,7 @@
 
 .header {
     text-align:center;
-    background-color: rgb(232, 207, 255);
+    background-color: rgb(207, 245, 255);
     width: 100%;
     right: 0;
     left: 0;
@@ -16,7 +16,7 @@
 
 .header .fixed {
     position: fixed;
-    background-color: rgb(232, 207, 255);
+    background-color: rgb(207, 245, 255);
     text-align:center;
     width: 100%;
     right: 0;
