@@ -11,14 +11,15 @@
     z-index: 100;
 }
 
-    .header .fixed {
-        position: fixed;
-        background-color: rgb(232, 207, 255);
-    }
+.header .fixed {
+    position: fixed;
+    background-color: rgb(232, 207, 255);
+    text-align:center;
+}
 
-    .header .quote {
-        color:rgb(0, 0, 0);
-    }
+.header .quote {
+    color:rgb(0, 0, 0);
+}
 
 .body {
     background-color: rgb(252, 252, 252);
