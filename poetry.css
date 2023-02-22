@@ -1,0 +1,15 @@
+.Header {
+    font-family: Apple Chancery, cursive;
+    text-align: center;
+    color:rgb(100, 0, 0);
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: rgb(252, 235, 210);
+}
+
+body {
+    background-color: rgb(78, 46, 23);
+}
