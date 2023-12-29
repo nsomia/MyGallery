@@ -1,0 +1,37 @@
+#body {
+    background-color: rgb(255, 218, 238);
+    background-size: 100% 100%;
+}
+
+#factDisplay {
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.button {
+    background-color: rgb(255, 69, 131);
+    border-radius: 50%;
+    padding: 1% 1%;
+    color: white;
+}
+
+#fact {
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(255, 69, 131);
+    background-color: rgb(255, 255, 255);
+    font-size:x-large;
+}
+
+#backgroundButton {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 69, 131);
+}

@@ -1,4 +1,4 @@
-.Header {
+.header {
     font-family: Apple Chancery, cursive;
     text-align: center;
     color:rgb(100, 0, 0);
@@ -13,4 +13,21 @@
 
 body {
     background-color: rgb(78, 46, 23);
+}
+
+#poemsGal {
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+}
+
+.poemsGalRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 3%;
+}
+
+.poemImg {
+    width: 15%;
 }
